@@ -1,3 +1,1 @@
-# hacktoberfest_project
-
-# Natalia 1
+# hacktoberfest_project 
